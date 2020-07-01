@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/rabrad/CI-CD-with-travis-Heroku.svg?branch=master)](https://travis-ci.org/rabrad/CI-CD-with-travis-Heroku)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
