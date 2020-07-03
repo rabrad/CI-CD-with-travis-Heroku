@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CI-CD-with-travis-Heroku/static/css/main.5f361e03.chunk.css",
+    "main.js": "/CI-CD-with-travis-Heroku/static/js/main.34479ae2.chunk.js",
+    "main.js.map": "/CI-CD-with-travis-Heroku/static/js/main.34479ae2.chunk.js.map",
+    "runtime-main.js": "/CI-CD-with-travis-Heroku/static/js/runtime-main.4fc7979f.js",
+    "runtime-main.js.map": "/CI-CD-with-travis-Heroku/static/js/runtime-main.4fc7979f.js.map",
+    "static/js/2.0761c17e.chunk.js": "/CI-CD-with-travis-Heroku/static/js/2.0761c17e.chunk.js",
+    "static/js/2.0761c17e.chunk.js.map": "/CI-CD-with-travis-Heroku/static/js/2.0761c17e.chunk.js.map",
+    "index.html": "/CI-CD-with-travis-Heroku/index.html",
+    "precache-manifest.e32ef4e8b3939cd9235fb04a66056a3e.js": "/CI-CD-with-travis-Heroku/precache-manifest.e32ef4e8b3939cd9235fb04a66056a3e.js",
+    "service-worker.js": "/CI-CD-with-travis-Heroku/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/CI-CD-with-travis-Heroku/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0761c17e.chunk.js.LICENSE.txt": "/CI-CD-with-travis-Heroku/static/js/2.0761c17e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/CI-CD-with-travis-Heroku/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fc7979f.js",
+    "static/js/2.0761c17e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.34479ae2.chunk.js"
+  ]
+}
